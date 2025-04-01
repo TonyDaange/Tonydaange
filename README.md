@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony Daange
-- 👀 I’m interested in Python,JS,Java,HTML,CSS,React
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Python, JS, Java, HTML, CSS, React, Next
+- 🌱 I’m currently learning Next.js
 <!--- -💞️ I’m looking to collaborate on ...
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
